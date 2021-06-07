@@ -1,0 +1,5 @@
+*.pyc
+kamil/static/admin
+__init__*
+db.*
+kamil/node_modules/

@@ -1,0 +1,23 @@
+{
+  "name": "kamil",
+  "version": "1.0.0",
+  "description": "Kamil bilim web-adminpanel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "paulo.mandela@mail.ru",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-minify": "^3.1.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-shorthand": "^1.1.0",
+    "gulp-terser": "^2.0.1",
+    "gulp-w3c-html-validator": "^3.0.0"
+  }
+}
